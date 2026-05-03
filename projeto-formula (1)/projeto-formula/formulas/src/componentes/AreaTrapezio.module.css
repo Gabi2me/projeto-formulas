@@ -1,0 +1,34 @@
+.card {
+  display: flex;
+  width: 990px;
+  background-color: #ffffff;
+  border:8px solid #bdb4aa;
+  
+}
+
+.conta{
+  width: 400px;
+  background-color: #bdb4aa;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+
+}
+
+.explicacao {
+  flex: 1;
+  padding: 20px;
+  text-align: justify;
+}
+
+input, button {
+  padding: 8px;
+  font-size: 12px;
+  
+}
+
+button {
+  cursor: pointer;
+  
+}
